@@ -1,0 +1,824 @@
+nuclear translocation
+membrane translocation
+mitochondrial translocation
+bax translocation
+nf-kappab translocation
+cytoplasmic translocation
+bacterial translocation
+cytosolic translocation
+cell translocation
+beta-catenin translocation
+nrf2 translocation
+insulin-stimulated translocation
+b-cell translocation
+aif translocation
+nucleocytoplasmic translocation
+nucleus translocation
+insulin-induced translocation
+p53 translocation
+cellular translocation
+nf-kappab translocation
+nucleolar translocation
+nfkappab translocation
+insulin-dependent translocation
+nuclear-cytoplasmic translocation
+cytoplasm-to-nucleus translocation
+factor-kappab translocation
+cytoplasmic-nuclear translocation
+cytosol-to-membrane translocation
+mitochondrio-nuclear translocation
+cytoplasm translocation
+cytoplasmic-to-nuclear translocation
+insulin-mediated translocation
+nf-kb translocation
+nf-kappab translocation
+nuclear-to-cytoplasmic translocation
+nfkappab translocation
+cytosol translocation
+nrf-2 translocation
+bacteria translocation
+mitochondria translocation
+mitochondrial-nuclear translocation
+nucleus-to-cytoplasm translocation
+membranous translocation
+nucleo-cytoplasmic translocation
+cytosol-to-nucleus translocation
+insulin-regulated translocation
+membrane-targeted translocation
+nf-kappab/p65 translocation
+nf-kappab/rela translocation
+nfkb translocation
+nuclear/cytoplasmic translocation
+nuclei translocation
+p65/nf-kappab translocation
+p65-nf-kappab translocation
+bax translocation
+nrf2 translocation
+bak translocation
+cytoplasm/nucleus translocation
+cytoplasmic/nuclear translocation
+cytosol-to-mitochondria translocation
+cytosol-to-mitochondrial translocation
+nanoparticle translocation
+nf-kappab-nuclear translocation
+nuclear/nucleolar translocation
+nuclear-cytosolic translocation
+p65/nfkappab translocation
+bcl2 translocation
+nf-kappab-p65 translocation
+nf-kb translocation
+nrf-2 translocation
+aif/bax translocation
+aif-gfp translocation
+bacteria-induced translocation
+bax/bak translocation
+bcell translocation
+beta-catenins translocation
+bim/bax translocation
+cell-membrane translocation
+cell-to-cell translocation
+cytoplasm- translocation
+cytoplasmatic translocation
+cytoplasmic-membrane translocation
+cytoplasm-nuclear translocation
+cytoplasm-nucleus translocation
+cytosol-nuclear translocation
+insulin/glut4 translocation
+insulin-evoked translocation
+insulin-provoked translocation
+membrane-to-cytosol translocation
+mitochondrial-nucleus translocation
+mitochondrial-tonuclear translocation
+mitochondrial-to-nuclear translocation
+mitochondria-to-cytosol translocation
+mouse translocation
+nanomaterial translocation
+nf-kappabeta translocation
+nfkappab-p65 translocation
+nf-kappabs translocation
+nf-kbp65 translocation
+nuclear-cytoplasm translocation
+nuclear-to-cytosolic translocation
+nuclear-to-mitochondrial translocation
+nucleo-cytoplasm translocation
+nucleus-cytoplasm translocation
+p53-independent translocation
+p65/nf-kappabeta translocation
+p65/p50 translocation
+p65/rela translocation
+p65-dsred translocation
+p65-nf-kb translocation
+p65-nuclear translocation
+nuclear translocations
+nuclear translocation
+membrane translocations
+mitochondrial translocations
+bax translocations
+nf-kappab translocations
+cytoplasmic translocations
+bacterial translocations
+cytosolic translocations
+cell translocations
+beta-catenin translocations
+nrf2 translocations
+insulin-stimulated translocations
+b-cell translocations
+aif translocations
+nucleocytoplasmic translocations
+nucleus translocations
+insulin-induced translocations
+p53 translocations
+cellular translocations
+nf-kappab translocations
+nucleolar translocations
+nfkappab translocations
+insulin-dependent translocations
+nuclear-cytoplasmic translocations
+cytoplasm-to-nucleus translocations
+factor-kappab translocations
+cytoplasmic-nuclear translocations
+cytosol-to-membrane translocations
+mitochondrio-nuclear translocations
+cytoplasm translocations
+cytoplasmic-to-nuclear translocations
+insulin-mediated translocations
+nf-kb translocations
+nf-kappab translocations
+nuclear-to-cytoplasmic translocations
+nfkappab translocations
+cytosol translocations
+nrf-2 translocations
+bacteria translocations
+mitochondria translocations
+mitochondrial-nuclear translocations
+nucleus-to-cytoplasm translocations
+membranous translocations
+nucleo-cytoplasmic translocations
+cytosol-to-nucleus translocations
+insulin-regulated translocations
+membrane-targeted translocations
+nf-kappab/p65 translocations
+nf-kappab/rela translocations
+nfkb translocations
+nuclear/cytoplasmic translocations
+nuclei translocations
+p65/nf-kappab translocations
+p65-nf-kappab translocations
+bax translocations
+nrf2 translocations
+bak translocations
+cytoplasm/nucleus translocations
+cytoplasmic/nuclear translocations
+cytosol-to-mitochondria translocations
+cytosol-to-mitochondrial translocations
+nanoparticle translocations
+nf-kappab-nuclear translocations
+nuclear/nucleolar translocations
+nuclear-cytosolic translocations
+p65/nfkappab translocations
+bcl2 translocations
+nf-kappab-p65 translocations
+nf-kb translocations
+nrf-2 translocations
+aif/bax translocations
+aif-gfp translocations
+bacteria-induced translocations
+bax/bak translocations
+bcell translocations
+beta-catenins translocations
+bim/bax translocations
+cell-membrane translocations
+cell-to-cell translocations
+cytoplasm- translocations
+cytoplasmatic translocations
+cytoplasmic-membrane translocations
+cytoplasm-nuclear translocations
+cytoplasm-nucleus translocations
+cytosol-nuclear translocations
+insulin/glut4 translocations
+insulin-evoked translocations
+insulin-provoked translocations
+membrane-to-cytosol translocations
+mitochondrial-nucleus translocations
+mitochondrial-tonuclear translocations
+mitochondrial-to-nuclear translocations
+mitochondria-to-cytosol translocations
+mouse translocations
+nanomaterial translocations
+nf-kappabeta translocations
+nfkappab-p65 translocations
+nf-kappabs translocations
+nf-kbp65 translocations
+nuclear-cytoplasm translocations
+nuclear-to-cytosolic translocations
+nuclear-to-mitochondrial translocations
+nucleo-cytoplasm translocations
+nucleus-cytoplasm translocations
+p53-independent translocations
+p65/nf-kappabeta translocations
+p65/p50 translocations
+p65/rela translocations
+p65-dsred translocations
+p65-nf-kb translocations
+p65-nuclear translocations
+cell fusion
+membrane fusion
+cell-cell fusion
+mitochondrial fusion
+gfp fusion
+gst fusion
+vesicle fusion
+virus fusion
+cell-to-cell fusion
+gst fusion
+hiv-1 fusion
+endosome fusion
+virus-cell fusion
+gal4 fusion
+bacterial fusion
+autophagosome-lysosome fusion
+phagosome-lysosome fusion
+hiv fusion
+antibody fusion
+lysosomal fusion
+glutathione-s-transferase fusion
+liposome fusion
+cellular fusion
+lysosome fusion
+endosomal fusion
+cells fusion
+antibody-cytokine fusion
+his-tag fusion
+virus-induced fusion
+phagolysosome fusion
+intercellular fusion
+macrophage fusion
+phagosome fusion
+autophagosome fusion
+transmembrane fusion
+phagolysosomal fusion
+virus-mediated fusion
+his-tagged fusion
+phagosome-endosome fusion
+histidine-tagged fusion
+hiv-cell fusion
+antibody-enzyme fusion
+antibody/cytokine fusion
+endosome/lysosome fusion
+endosome-endosome fusion
+hiv-2-gag-p1 fusion
+endosome-lysosome fusion
+antibody-avidin fusion
+antibody-based fusion
+antibody-il-2 fusion
+cell/cell fusion
+membrane-membrane fusion
+5-promoter-luciferase fusion
+antibody-ligand fusion
+autophagosome/lysosome fusion
+phago-lysosomal fusion
+phagosomal-endosomal/lysosomal fusion
+virus-endosome fusion
+virus-liposome fusion
+virus-to-cell fusion
+antibody/il-2 fusion
+autophagolysosomal fusion
+cell-liposome fusion
+cell-virus fusion
+endosomal-lysosomal fusion
+histidine fusion
+hiv-induced fusion
+hiv-mediated fusion
+membrane-anchored fusion
+mitochondria fusion
+phago-lysosome fusion
+vesicle-cell fusion
+viruses fusion
+virus-membrane fusion
+antibodies fusion
+antibody/interleukin-2 fusion
+antibody-sctrail fusion
+antibody-tnf fusion
+chicken fusion
+cholesterol-dependent fusion
+endomembrane fusion
+glutathione-s-transferase-ar fusion
+hiv-2 fusion
+hiv-endosome fusion
+liposome-cell fusion
+macrophages fusion
+membrane-bound fusion
+membrane-gfp fusion
+membrane-targeted fusion
+mouse fusion
+virus/cell fusion
+lysosomal fusion
+lysosome fusion
+antibody-anticalin fusion
+antibodycytokine fusion
+antibody-endostatin fusion
+antibody-envelope fusion
+antibody-il2 fusion
+antibody-mica fusion
+antibody-peptide fusion
+antibody-protamine fusion
+antibody-ribonuclease fusion
+antibody-rnase fusion
+antibody-streptavidin fusion
+autophago-lysosomal fusion
+autophagosomal fusion
+autophagosomal/lysosomal fusion
+autophagosome-associated fusion
+autophagosomes fusion
+autophagosome-to-lysosome fusion
+autophagy-protein-dependent fusion
+bacterial/viral fusion
+bacterial-viral fusion
+baculovirus-induced fusion
+cell/plasmacytoma fusion
+cellcell fusion
+cell--cell fusion
+cell-envelope fusion
+cell-virus-cell fusion
+cerevisiae fusion
+cytomegalovirus/beta-galactosidase fusion
+endolysosomal fusion
+endolysosome fusion
+endo-membrane fusion
+endosome-to-lysosome fusion
+endosomolytic fusion
+glutathione-s-transferase-alpha-enolase fusion
+glutathione-s-transferase-c-jun fusion
+glutathione-s-transferase-ddx3 fusion
+glutathione-s-transferase-endophilin fusion
+glutathione-s-transferase-etif fusion
+glutathione-s-transferase-frs2 fusion
+glutathione-s-transferase-grb2 fusion
+glutathione-s-transferase-hmsra fusion
+glutathione-s-transferase-npi-1 fusion
+glutathione-s-transferase-pil18 fusion
+glutathione-s-transferase-rhamm fusion
+glutathione-s-transferase-sap fusion
+glutathione-s-transferase-shp2 fusion
+glutathione-s-transferase-sp1 fusion
+glutathione-s-transferase-vhl fusion
+histag fusion
+histidine-tag fusion
+hiv/cell fusion
+hiv1 fusion
+hiv-1-cell fusion
+hiv-1-elicited fusion
+hiv-1-envelope-glycoprotein-mediated fusion
+hiv-1-inducible fusion
+hiv-1lai-mediated fusion
+hiv-1-mediated fusion
+hiv-1-tat-p2gag fusion
+hiv-2-gag-p1-2abc fusion
+intracytoplasmic fusion
+liposomal fusion
+liposome-based fusion
+liposome-incorporated fusion
+liposomes fusion
+liposomes: fusion
+lysosome-phagosome fusion
+lysozyme fusion
+lysozyme-cat fusion
+macrophage-macrophage fusion
+membrane/cell fusion
+membrane-impermeant fusion
+membrane-inserted fusion
+membrane-mediated fusion
+membrane-permeable fusion
+membranes fusion
+membrane-trunked fusion
+mouse fusion
+phagolysomal fusion
+phagosomal fusion
+rat-mouse fusion
+vesicle-membrane fusion
+vesicle-organelle fusion
+vesicles fusion
+vesicle-vesicle fusion
+virus fusion
+virus-1 fusion
+virus-assisted fusion
+virus-dependent fusion
+virus-free fusion
+virus-host fusion
+virusmediated fusion
+virus--mediated fusion
+virus-medicated fusion
+virus-notch1 fusion
+virus-rbc fusion
+virus-virus fusion
+cell fusions
+membrane fusions
+cell-cell fusions
+mitochondrial fusions
+gfp fusions
+gst fusions
+vesicle fusions
+virus fusions
+cell-to-cell fusions
+gst fusions
+hiv-1 fusions
+endosome fusions
+virus-cell fusions
+gal4 fusions
+bacterial fusions
+autophagosome-lysosome fusions
+phagosome-lysosome fusions
+hiv fusions
+antibody fusions
+lysosomal fusions
+glutathione-s-transferase fusions
+liposome fusions
+cellular fusions
+lysosome fusions
+endosomal fusions
+cells fusions
+antibody-cytokine fusions
+his-tag fusions
+virus-induced fusions
+phagolysosome fusions
+intercellular fusions
+macrophage fusions
+phagosome fusions
+autophagosome fusions
+transmembrane fusions
+phagolysosomal fusions
+virus-mediated fusions
+his-tagged fusions
+phagosome-endosome fusions
+histidine-tagged fusions
+hiv-cell fusions
+antibody-enzyme fusions
+antibody/cytokine fusions
+endosome/lysosome fusions
+endosome-endosome fusions
+hiv-2-gag-p1 fusions
+endosome-lysosome fusions
+antibody-avidin fusions
+antibody-based fusions
+antibody-il-2 fusions
+cell/cell fusions
+membrane-membrane fusions
+5-promoter-luciferase fusions
+antibody-ligand fusions
+autophagosome/lysosome fusions
+phago-lysosomal fusions
+phagosomal-endosomal/lysosomal fusions
+virus-endosome fusions
+virus-liposome fusions
+virus-to-cell fusions
+antibody/il-2 fusions
+autophagolysosomal fusions
+cell-liposome fusions
+cell-virus fusions
+endosomal-lysosomal fusions
+histidine fusions
+hiv-induced fusions
+hiv-mediated fusions
+membrane-anchored fusions
+mitochondria fusions
+phago-lysosome fusions
+vesicle-cell fusions
+viruses fusions
+virus-membrane fusions
+antibodies fusions
+antibody/interleukin-2 fusions
+antibody-sctrail fusions
+antibody-tnf fusions
+chicken fusions
+cholesterol-dependent fusions
+endomembrane fusions
+glutathione-s-transferase-ar fusions
+hiv-2 fusions
+hiv-endosome fusions
+liposome-cell fusions
+macrophages fusions
+membrane-bound fusions
+membrane-gfp fusions
+membrane-targeted fusions
+mouse fusions
+virus/cell fusions
+lysosomal fusions
+lysosome fusions
+antibody-anticalin fusions
+antibodycytokine fusions
+antibody-endostatin fusions
+antibody-envelope fusions
+antibody-il2 fusions
+antibody-mica fusions
+antibody-peptide fusions
+antibody-protamine fusions
+antibody-ribonuclease fusions
+antibody-rnase fusions
+antibody-streptavidin fusions
+autophago-lysosomal fusions
+autophagosomal fusions
+autophagosomal/lysosomal fusions
+autophagosome-associated fusions
+autophagosomes fusions
+autophagosome-to-lysosome fusions
+autophagy-protein-dependent fusions
+bacterial/viral fusions
+bacterial-viral fusions
+baculovirus-induced fusions
+cell/plasmacytoma fusions
+cellcell fusions
+cell--cell fusions
+cell-envelope fusions
+cell-virus-cell fusions
+cerevisiae fusions
+cytomegalovirus/beta-galactosidase fusions
+endolysosomal fusions
+endolysosome fusions
+endo-membrane fusions
+endosome-to-lysosome fusions
+endosomolytic fusions
+glutathione-s-transferase-alpha-enolase fusions
+glutathione-s-transferase-c-jun fusions
+glutathione-s-transferase-ddx3 fusions
+glutathione-s-transferase-endophilin fusions
+glutathione-s-transferase-etif fusions
+glutathione-s-transferase-frs2 fusions
+glutathione-s-transferase-grb2 fusions
+glutathione-s-transferase-hmsra fusions
+glutathione-s-transferase-npi-1 fusions
+glutathione-s-transferase-pil18 fusions
+glutathione-s-transferase-rhamm fusions
+glutathione-s-transferase-sap fusions
+glutathione-s-transferase-shp2 fusions
+glutathione-s-transferase-sp1 fusions
+glutathione-s-transferase-vhl fusions
+histag fusions
+histidine-tag fusions
+hiv/cell fusions
+hiv1 fusions
+hiv-1-cell fusions
+hiv-1-elicited fusions
+hiv-1-envelope-glycoprotein-mediated fusions
+hiv-1-inducible fusions
+hiv-1lai-mediated fusions
+hiv-1-mediated fusions
+hiv-1-tat-p2gag fusions
+hiv-2-gag-p1-2abc fusions
+intracytoplasmic fusions
+liposomal fusions
+liposome-based fusions
+liposome-incorporated fusions
+liposomes fusions
+liposomes: fusions
+lysosome-phagosome fusions
+lysozyme fusions
+lysozyme-cat fusions
+macrophage-macrophage fusions
+membrane/cell fusions
+membrane-impermeant fusions
+membrane-inserted fusions
+membrane-mediated fusions
+membrane-permeable fusions
+membranes fusions
+membrane-trunked fusions
+mouse fusions
+phagolysomal fusions
+phagosomal fusions
+rat-mouse fusions
+vesicle-membrane fusions
+vesicle-organelle fusions
+vesicles fusions
+vesicle-vesicle fusions
+virus fusions
+virus-1 fusions
+virus-assisted fusions
+virus-dependent fusions
+virus-free fusions
+virus-host fusions
+virusmediated fusions
+virus--mediated fusions
+virus-medicated fusions
+virus-notch1 fusions
+virus-rbc fusions
+virus-virus fusions
+glucose transporter 4 GLUT4 translocation
+glucose transporter 4 GLUT4 translocations
+GLUT4 translocation
+glucose transporter 4 GLUT4 translocation
+GLUT4 translocations
+glucose transporter 4 GLUT4 translocations
+Glut-4 translocation
+Glut-4 translocations
+NF-κB translocation
+NF-κB translocations
+NF-κB nucler translocation
+NF-κB nucler translocations
+NF-kB and AP-1 translocation
+NF-kB and AP-1 translocations
+nuclear factor κB NF-κB translocation
+nuclear factor κB NF-κB translocations
+nuclear factor-kappa B NF-κB translocation
+nuclear factor-kappa B NF-κB translocations
+nuclear factor-κB NF-κB p65 activation by phosphorylation and its translocation
+nuclear factor-κB NF-κB p65 activation by phosphorylation and its translocations
+nuclear transcription factor kappa-B NF-κB subunit p65 protein translocation
+nuclear transcription factor kappa-B NF-κB subunit p65 protein translocations
+nuclear transcription factor kappa-B subunit p65 protein translocation
+nuclear transcription factor kappa-B subunit p65 protein translocations
+p65 translocation
+p65 translocations
+beta-catenin nuclear translocation
+beta-catenin nuclear translocations
+translocation to the cytoplasm
+translocations to the cytoplasm
+translocation from the cytoplasm into the nucleus
+translocation to the plasma membrane
+translocation from nuclear to cytoplasmic compartment
+translocation from the cytosol to mitochondria
+translocation into the nucleus
+translocation to mitochondria
+translocation from the cytosol to the membrane
+translocation from the cytoplasm to the plasma membrane
+translocation and expression of NFkappaB
+translocation of nuclear factor kappa B
+translocation into the cytoplasm
+translocation of apoptin from the cytoplasm to the nucleus
+translocation of glucose transporter 1 GLUT1
+translocation of glucose transporter 1
+translocation of glucose transporter 4
+translocation of glucose transporter 4 GLUT-4
+translocation of glucose transporter type 4 GLUT4
+translocation of GLUT1
+translocation of GLUT4
+translocation of NF-kB
+translocation of NF-kappaB
+translocation of NF-kappa B
+translocation of NFkB
+translocation of NFkappaB
+translocation of Nrf2
+translocation of nuclear factor-κB
+translocation of p65
+translocation of p65-NFkB
+translocation of Parkin
+translocation of beta-catenin
+translocation to nucleus
+translocation of the NF-kappaB
+translocation of nuclear factor-kappaB
+actin cytoskeletal rearrangements
+actin rearrangements
+actin rearrangement
+Beckmann rearrangement
+IGH gene rearrangement
+structural rearrangement
+structural rearrangements in the LET-23 dimer
+β TM helix rearrangement
+rearrangement of metabolism
+cytoskeletal rearrangement
+cytoskeletal rearrangements
+cytoskeleton rearrangement
+cytoskeleton rearrangements
+cyto-architectural rearrangements
+rearrangement of actin
+rearrangements of actin
+phase inversion
+molecular inversion
+fusion of mitochondria
+fusion of multivesicular bodies
+fusion of newcomer insulin SGs
+myotube fusion
+mitochondrial fusion
+fusion of autophagosomes
+fusion of osteoclast
+using fusion protein
+promoter fusion
+chimeric fusion cytotoxin
+different fusion transcripts
+IgG-based fusion protein
+epithelial fusions
+fusion machinery
+insulin-induced fusion
+subcellular translocations
+subcellular translocation
+substrate translocation
+substrate translocations
+beta-arrestin translocation
+pkc translocation
+translocation of Bax to mitochondria
+translocation of Bax into mitochondria
+translocation of BAF from the nucleus to the cytoplasm
+translocation of protein kinase Cdelta
+translocation of CCDC88A towards cell protrusions
+translocation of CLICs to the plasma membrane
+protein kinase C PKC translocation
+Ten-eleven translocation
+TFEB translocation
+pathogen translocation
+translocation from mitochondria
+lipid raft translocation
+HMGB1 translocation
+CAV-1 translocation
+rearrangement into small clusters
+rearrangement of the actin cytoskeleton
+rearrangement of the immunoglobulin
+rearrangement of the PZP module
+rearrangements known as chromothripsis
+rearrangement of chromatin
+beta TM helix rearrangement
+cyto-architectural rearrangements
+membrane rearrangements
+cyto-architectural rearrangement
+membrane rearrangement
+fusion of the PCL-SF scaffold
+fusion protein across cellular membranes
+fusion protein containing the human SVCT2wt and EYFP
+fusion protein L19mTNF
+dCK fusions
+EGFP fusion
+Ring fusion
+H3-YFP fusions
+CD99-Fc fusion
+GFP-NEP fusion
+GST-CTD fusion
+NanoBiT fusions
+peptide fusion protein
+PILR-Fc fusion
+vesicle fusion
+Cdh2-EGFP fusion
+different fusion transcripts
+Hsc70-P26 fusion
+cell cycle fusion
+GLP-1R-GFP fusion
+TRH-R-eGFP fusion
+tripartite fusion
+Nanobody-Fc fusion
+Rec11-Rec10 fusion
+alpha-synuclein fusion
+bispecific fusion
+factor-melittin fusion
+uPAg-KPI fusion
+myoblasts with a reduced fusion capacity
+LacR-RHINO fusion
+myoblasts dMBs underwent fusion
+retrovirally transduced with fusion
+tetracycline repressor tetR fusions
+mt fusion
+mitochondrial morphology is dynamically remodeled by fusion
+Neurotrophin-Elastin-Like Peptide Fusion
+Affibody Fusion
+SUMO-C/ebpa fusion
+Orbitrap Fusion
+translocation to the mitochondria
+translocation-deficient
+translocation to the nucleus
+translocation to the NOX2
+translocation to dendritic shafts
+Translocation of the Yersinia
+translocation of the cytosolic
+translocation of the complex into the nucleus
+translocation of Shoc2 to endosomes
+translocation of TFEB and TFE3 to the nucleus
+translocation of RBM10 from nucleus into cell peripheries
+translocation of QDs
+translocation of proteins from the ribosome
+translocation of p-p53 p-H2AX S140 and MDC1 from cytoplasm to nucleus
+translocation of p-JNK from the cytoplasm to the nucleus
+translocation of phospho-ERK phospho-JNK and phospho-p38 from the cytoplasm to the nucleus
+translocation of p50/p65 from cytoplasm to nucleus
+translocation of p47phox to the membrane
+translocation of NFAT
+translocation of mTORC1 to the lysosome
+translocation of MTA2 from the cytoplasm into the nucleus
+translocation of mitochondrial
+translocation of JLP-JNK
+translocation of hypoxia-inducible
+translocation of HuR from the nucleus to the cytoplasm
+translocation of HSF1 to neuronal nuclei
+translocation of HDAC1 to UVR-damaged chromatin
+Translocation of GRP78 from cytosol to cell surface
+translocation of green
+Translocation of gold
+translocation of GFP-tagged AQP5
+translocation of FoxO3a to the nucleus
+translocation of endogenous
+Translocation of Drp1 from the cytosol to mitochondria
+translocation of DDX3X-SG complexes to the LD surface
+translocation of cytoplasmic OATP2A1 to plasma membranes
+translocation of cytochrome
+translocation of an intermembrane
+translocation mechanism
+translocation level
+translocation from cytosol
+translocation and release of HMGB1
+translocation of its effector
+translocation to lipid
+translocation frequency
+translocation to cell nuclei
+NF-kappaB nucler translocation
+PARK2/Parkin translocation
+variant translocation
+translocation and trafficking of the nuclear
+acid translocation
+PKCzeta translocation
+ionomycin-induced translocation
+translocation into
+translocation through a type
