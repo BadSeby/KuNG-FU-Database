@@ -47,3 +47,4 @@ KuNG FU (KiNase Gene FUsion) is a novel homogeneous user-friendly on line databa
     </li>
   </ul>
 </ul>
+[![DOI](https://zenodo.org/badge/289281735.svg)](https://zenodo.org/badge/latestdoi/289281735
