@@ -46,7 +46,7 @@ KuNG FU (KiNase Gene FUsion) is a novel homogeneous user-friendly on line databa
       <b>CompleteTemplate:</b> Contains scripts to semi-automatically fill meta info about kinase fusions
     </li>
     <li>
-      <b>Database:</b> Contains KuNG-DU sql file 
+      <b>Database:</b> Contains KuNG-FU sql file 
     </li>
   </ul>
 </ul>
