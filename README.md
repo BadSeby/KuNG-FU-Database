@@ -38,6 +38,7 @@ KuNG FU (KiNase Gene FUsion) is a novel homogeneous user-friendly on line databa
 # This Repository
 <ul>
   <li>This GitHub Repository contains two folders with scripts used to create KunGU-FU-Database</li>
+  <li>All python scripts files are developed with Python 3.6 version</li>
   <ul>
     <li>
       <b>DownloadPapers:</b> Contains scripts to collect and filter papers from PubMed
